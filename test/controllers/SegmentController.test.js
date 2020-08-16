@@ -9,7 +9,7 @@ describe('Segment Controller', function () {
     // var agent = supertest.agent(sails.hooks.http.app);
     // agent
     //   .get('/segment')
-    //   .send()
+    //   .send() 
     //   .expect(200)
     //   .end(function(err, result) {
     //     if (err) {
